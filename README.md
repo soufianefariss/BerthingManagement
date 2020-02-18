@@ -1,6 +1,9 @@
 # BerthingManagement
 A simple PyQt5 app built for Marsa Maroc during a summer internship.
 
+The app simply takes input from the user (Ship cargo, name, LOA, ... etc). Then, calculates using a simple mathematical formula
+in order to to fill the previsions table. Usually, this is done in a manual way with an Excel tabular.
+
 
 ## Requirements
 - Python 3
