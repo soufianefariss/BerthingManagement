@@ -1,4 +1,4 @@
-# BerthingManagement
+# Berthing Management 
 A simple PyQt5 app built for Marsa Maroc during a summer internship.
 
 The app simply takes input from the user (Ship cargo, name, LOA, ... etc). Then, calculates using a simple mathematical formula
@@ -11,6 +11,7 @@ in order to to fill the previsions table. Usually, this is done in a manual way 
 - MySQLdb 
 ## Usage
 Simply run:
+
 `$ python3 main.py`
 ## UI
 ![tab1](https://i.imgur.com/qJY9rU3.png)
